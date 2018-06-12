@@ -3,7 +3,7 @@
 // Edit variables (3 variables)
 // ---------------------------
 // File to split, is its not in the same folder with filesplit.php, full path is required.
-$filename = "http://down-down.193b.starter-ca-central-1.openshiftapps.com/index.php?p=&view=p10.zip"; 
+$filename = "http://.zip"; 
 // Target folder. Splitted files will be stored here. Original file never gets touched.
 // Do not append slash! Make sure webserver has write permission on this folder.
 $targetfolder = '/opt/app-root/src/tmp';
